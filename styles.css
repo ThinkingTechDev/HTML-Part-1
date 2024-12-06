@@ -49,6 +49,11 @@ img {
     border-radius: 10px;
 }
 
+span {
+    background-color: lightblue;
+    padding: 5px;
+}
+
 a {
     align-self: center;
 }

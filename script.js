@@ -4,6 +4,6 @@ document.addEventListener("keydown", (e) => {
     } else if (e.key === "2") {
         window.location.href = "with.html";
     } else if (e.key === "3") {
-        window.location.href = "recipe.html";
+        window.location.href = "disney.html";
     }
 });
