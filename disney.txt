@@ -9,8 +9,7 @@ Moana
 Aladdin
 Beauty and the Beast
 
-Top Disney Characters
-Top Disney Characters
+Top 5 Disney Characters
 Mickey Mouse
 Elsa
 Simba
@@ -21,4 +20,5 @@ Disney has been inspiring magic and imagination for generations!
 
 Want to explore more? 
 
+Link Text: Vist Disney's Official Website
 Link: https://www.disney.com/
